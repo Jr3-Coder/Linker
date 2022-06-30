@@ -1,4 +1,4 @@
-print("                      Created By Jr420") 
+print("                      Created By Jr3-Coder") 
 link=input("Enter your link:") 
 print("..............Please Wait.............") 
 cont=input("press enter to continue:") 
