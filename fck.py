@@ -1,0 +1,7 @@
+print("                      Created By Jr420") 
+link=input("Enter your link:") 
+print("..............Please Wait.............") 
+cont=input("press enter to continue:") 
+shortener=pyshorteners.Shortener() 
+final=shortener.tinyurl.short(link) 
+print(" Your url is :"+final)
