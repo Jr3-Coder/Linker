@@ -29,3 +29,5 @@ $ No Trozens
 $ Virus Free
 
 $ Easy To Use
+
+YOU CAN USE COPY AND PASTE
